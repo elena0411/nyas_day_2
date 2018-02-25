@@ -10,8 +10,6 @@ These are my notes on git.
 ---
 
 ### Tracking Changes
-wq
-Now what...
 
-hi ijhoiuhoin
+*`git diff`: shows changes not yet tracked
 
