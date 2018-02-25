@@ -10,6 +10,8 @@ These are my notes on git.
 ---
 
 ### Tracking Changes
-
+wq
 Now what...
+
+hi ijhoiuhoin
 
